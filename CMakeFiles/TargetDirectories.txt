@@ -1,0 +1,2 @@
+/home/mihver1/Projects/ifmo/cpp/prakt2/huffman/CMakeFiles/huffman.dir
+/home/mihver1/Projects/ifmo/cpp/prakt2/huffman/CMakeFiles/main.dir

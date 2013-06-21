@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,liblibhuffman.so -o liblibhuffman.so CMakeFiles/libhuffman.dir/huffman.cpp.o 

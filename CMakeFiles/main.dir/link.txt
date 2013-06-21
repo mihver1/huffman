@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g    CMakeFiles/main.dir/main.cpp.o  -o main -rdynamic libhuffman.so -Wl,-rpath,/home/mihver1/Projects/ifmo/cpp/prakt2/huffman 
